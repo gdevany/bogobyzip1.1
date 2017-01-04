@@ -65,7 +65,7 @@ public class Coupons implements java.io.Serializable {
     public Date getCouponExp() {
         GregorianCalendar calendar = new GregorianCalendar();
         calendar.setTime(this.getCouponDate());
-        calendar.add(Calendar.DATE, 1825);
+        calendar.add(Calendar.DATE, 364);
         // If this exp period length is changed, make change to user
         // in bizinfo.jsp
         return calendar.getTime();
