@@ -17,7 +17,7 @@
             <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             ** COUPONS ARE CURRENTLY FREE TO POST 
             DURING THIS TRIAL PERIOD **</p>
-        <p> -Offers are listed for 5 years</p>
+        <p> -Offers are listed for 1 year</p>
         <!-- If this listing period is changed, make change to expiration period 
             length in Coupons.java getCouponExp().
         -->
